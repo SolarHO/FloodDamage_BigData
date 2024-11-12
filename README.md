@@ -1,1 +1,1 @@
-# FloodDamage_BigData
+# 침수 피해 분석 빅데이터 프로젝트
