@@ -1,4 +1,4 @@
-# 💻빅데이터분석 프로젝트 [서울시 침수피해 분석]
+![image](https://github.com/user-attachments/assets/f79a0e21-6f61-4a97-b0ae-72f5dce723a3)# 💻빅데이터분석 프로젝트 [서울시 침수피해 분석]
 
 ## 1️⃣ 주제 선정 배경
 - 매년 7~9월 집중 호우, 태풍의 이유로 다수의 침수피해가 발생
@@ -11,7 +11,11 @@
 
 <hr>
 
-## 2️⃣ 침수피해 시각화
+## 2️⃣ 사용 데이터
+![image](https://github.com/user-attachments/assets/9fec278c-be6a-43d1-8d1f-319b0f94414e)
+
+
+## 3️⃣ 침수피해 시각화
 
 - [행정안전부 생활안전지도 API에서 도시침수지도와 침수흔적도 shp파일을 추출](https://github.com/SolarHO/FloodDamage_BigData/blob/main/%EB%8F%84%EC%8B%9C%EC%B9%A8%EC%88%98%EC%A7%80%EB%8F%84%2C_%EC%B9%A8%EC%88%98%ED%9D%94%EC%A0%81%EB%8F%84_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%B6%94%EC%B6%9C.ipynb)
 <pre>
@@ -155,7 +159,9 @@
     ![image](https://github.com/user-attachments/assets/c40f15f3-aaab-406d-a9e4-7710be6cce16)
     ![image](https://github.com/user-attachments/assets/f74af704-2528-4b88-94e8-873bd2cac488)
 
-## 3️⃣ 결론
+<hr>
+
+## 4️⃣ 결론
   1. 서울시 침수 피해는 한강 기준으로 남쪽에 위치한 행정구(영등포구, 서초구, 동작구, 구로구 등)가 주로 취약하며
      요인으로는 상대적으로 저지대에 위치함과 불투수 면적에 있다
   2. 침수심도는 여의도 주변을 둘러싼 강서구와 동작구가 가장 크며, 다음으로는 서초구가 있다
